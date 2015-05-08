@@ -8,6 +8,8 @@
 
 ###Task0002(JS) 练习五完成的不好。
 
+完成的顺序是4->2->1->3->5
+
 [练习1](http://polly343900.github.io/demo/task0002/task0002_1.html)
 
 [练习2](http://polly343900.github.io/demo/task0002/task0002_2.html)
